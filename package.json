@@ -1,0 +1,27 @@
+{
+    "name": "profile-generator",
+    "version": "1.0.0",
+    "description": "profilegenHW",
+    "main": "app.js",
+    "directories": {
+      "lib": "lib",
+      "test": "test"
+    },
+    "scripts": {
+      "test": "jest"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/turtlebear64/teamprofilegenrevised"
+    },
+    "author": "",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/turtlebear64"
+    },
+    "homepage": "https://github.com/turtlebear64",
+    "dependencies": {
+      "inquirer": "^7.0.0",
+      "jest": "^24.9.0"
+    }
+  }
