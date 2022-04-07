@@ -1,8 +1,8 @@
-const Employee = require("../people/Employees");
+const Employees = require("../people/Employees");
 
-describe("Employee", () => {
+describe("Employees", () => {
     it("Sets Employee attribute", () => {
-        const e = new Employee();
+        const e = new Employees ();
         expect(typeof(e)).toBe("object");
     });
 

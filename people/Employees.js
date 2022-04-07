@@ -14,7 +14,7 @@ class Employees {
         return this.email;
     }
     getRole() {
-        return 'Employee';
+        return 'Employees';
     }
 }
 module.exports = Employees
